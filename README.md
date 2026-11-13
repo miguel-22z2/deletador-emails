@@ -26,7 +26,7 @@ Programa em Python com interface gráfica moderna para deletar emails em massa p
 
 ```bash
 git clone https://github.com/miguel-22z2/deletador-emails.git
-cd SEU-REPOSITORIO
+cd deletador-emails
 pip install customtkinter
 py deletor_emails.py
 ```
