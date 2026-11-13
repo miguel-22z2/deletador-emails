@@ -75,7 +75,3 @@ Troque o servidor IMAP no campo correspondente:
 ## Como funciona
 
 O programa conecta ao servidor por IMAP com SSL (`imaplib.IMAP4_SSL`), faz a busca com os critérios escolhidos, marca os emails com a flag `\Deleted` e executa `expunge` para removê-los. No Gmail, a categoria Promoções é buscada com `X-GM-RAW`.
-
-## Licença
-
-Defina aqui a licença do projeto (por exemplo, MIT).
